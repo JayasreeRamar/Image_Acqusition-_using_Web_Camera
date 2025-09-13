@@ -113,7 +113,7 @@ cap.release()
 
 ### iii) Display the video by resizing the window
 
-![WIN_20250913_09_52_06_Pro](https://github.com/user-attachments/assets/645668dd-ff15-4d55-9ff5-a4a832f56999)
+![WIN_20250913_09_58_13_Pro](https://github.com/user-attachments/assets/e4e4e1bd-1e9e-449c-a803-dd742285ee67)
 
 ### iv) Rotate and display the video
 ![WIN_20250913_09_52_11_Pro](https://github.com/user-attachments/assets/aad0a9d6-b11b-451d-896b-8e790b402000)
