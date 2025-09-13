@@ -104,16 +104,20 @@ cap.release()
 ## Output:
 
 ### i) Write the frame as JPG image
-<img width="512" height="411" alt="download" src="https://github.com/user-attachments/assets/ba48d3f0-e2a9-4346-b1b7-17cc30e66c8a" />
+
+![WIN_20250913_09_52_06_Pro](https://github.com/user-attachments/assets/5bb4615f-1c2e-433e-9c21-c73616e67b3c)
 
 ### ii) Display the video
-<img width="512" height="389" alt="download" src="https://github.com/user-attachments/assets/19ae07e2-467f-4c31-b793-d628f0813a47" />
+
+![WIN_20250913_09_52_06_Pro](https://github.com/user-attachments/assets/09adc56d-4203-4ebb-836a-e60d2f95a3e2)
 
 ### iii) Display the video by resizing the window
-<img width="266" height="389" alt="download" src="https://github.com/user-attachments/assets/c6b6df03-5cf9-4cbf-97a2-3d255680655e" />
+
+![WIN_20250913_09_52_06_Pro](https://github.com/user-attachments/assets/645668dd-ff15-4d55-9ff5-a4a832f56999)
 
 ### iv) Rotate and display the video
-<img width="297" height="389" alt="download" src="https://github.com/user-attachments/assets/f7e8a194-a83a-431a-ab3f-59c8c676eda8" />
+![WIN_20250913_09_52_11_Pro](https://github.com/user-attachments/assets/aad0a9d6-b11b-451d-896b-8e790b402000)
+
 
 ## Result:
 Thus the image is accessed from webcamera and displayed using openCV.
